@@ -1,8 +1,8 @@
 # tomcat-webapp
 
-Build project from project directory `mvn package`
+Build project with `mvn package`
 
-Start application `sh target/bin/webapp`
+Start application with `sh target/bin/webapp`
 
 The app will be started on the port `8080`
 
